@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Smartwatch",
       "description": "You can check time with it.",
-      "picture": "https://github.com/sitkujanos86/e-commerce-API",
+      "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
       "class": "Tech",
       "price": 100
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Jeans",
       "description": "You wear it.",
-      "picture": "https://github.com/sitkujanos86/e-commerce-API",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Levi%27s_501_raw_jeans.jpg/800px-Levi%27s_501_raw_jeans.jpg",
       "class": "Clothes",
       "price": 42
     }
