@@ -11,10 +11,18 @@
     {
       "id": 2,
       "name": "Jeans",
-      "description": "You wear it.",
+      "description": "You wear it on your legs.",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Levi%27s_501_raw_jeans.jpg/800px-Levi%27s_501_raw_jeans.jpg",
       "class": "Clothes",
       "price": 42
+    }
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "description": "You wear it on your torso.",
+      "picture": "https://www.totalprotex.it/media/catalog/product/cache/default/image/500x500/9df78eab33525d08d6e5fb8d27136e95/a/n/anti-static-esd-t-shirt-0_3.jpg",
+      "class": "Clothes",
+      "price": 37
     }
   ]
 }
