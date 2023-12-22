@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Smartwatch",
+      "description": "You can check time with it.",
+      "picture": "https://github.com/sitkujanos86/e-commerce-API",
+      "class": "Tech",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "description": "You wear it.",
+      "picture": "https://github.com/sitkujanos86/e-commerce-API",
+      "class": "Clothes",
+      "price": 42
+    }
+  ]
+}
