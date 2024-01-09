@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": 1,
       "name": "Smartwatch",
       "description": "You can check time with it.",
       "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
       "category": "Tech",
-      "price": 100
+      "price": "112",
+      "id": 1
     },
     {
       "id": 2,
